@@ -1,10 +1,10 @@
-<div align="center">
+﻿<div align="center">
 
 # Monolith
 
 **Платформенное ядро Stancore Studio**
 
-[![Org](https://img.shields.io/badge/Stancore-Studio-7C3AED?style=for-the-badge&logo=github)](https://github.com/StancoreStudio)
+[![Org](https://img.shields.io/badge/StancoreStudio-7C3AED?style=for-the-badge&logo=github)](https://github.com/StancoreStudio)
 [![Catalog](https://img.shields.io/badge/Catalog-developments-F472B6?style=for-the-badge)](https://github.com/StancoreStudio/developments)
 [![Telegram](https://img.shields.io/badge/Telegram-TheStancore-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheStancore)
 
